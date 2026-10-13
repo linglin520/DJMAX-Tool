@@ -12,14 +12,14 @@ DJMAX RESPECT V 成绩查询与练习参考工具，原生 Android 应用，支�
 - **吃分推荐**：基于个人已收录成绩提供主推荐与候补，支持换一个、跳过和进度记录。
 - **成长记录**：从成功查询开始积累 DJ POWER 与单谱面准确率曲线，查看成绩统计及近期记录。
 - **整曲收藏**：保存整首歌曲，方便回查曲目与详情。
-- **外观与交互**：跟随系统／深色／浅色，金色／樱花粉／银白主题；液态玻璃导航、曲绘／整卡过渡、返回顶部和刷新动效。
+- **外观与交互**：跟随系统／深色／浅色，金色／樱花粉／银白主题；液态玻璃导航、曲库曲绘过渡、栏目淡变、返回顶部和刷新动效。
 - **App 搜索入口**：歌曲详情提供 YouTube、bilibili 和网易云的 App 搜索入口。
 
 ## 下载与更新
 
 完整安装包放在本仓库 [Releases](https://github.com/linglin520/DJMAX-Tool/releases/latest)，提供 APK 和附带安装说明／摘要的 ZIP。使用相同签名的完整包覆盖安装，无需卸载；曲绘仍按需联网缓存。
 
-当前完整试用版为 **0.1.6**。启动检查新版本并提示，也可在“我的 → 关于”检查更新；**点击“下载更新”才下载安装包**。下载完成并校验后，通过 Android 系统确认安装。没有更新功能的旧版需要先手动覆盖安装这一次。
+当前完整试用版为 **0.1.7**。启动检查新版本并提示，也可在“我的 → 关于”检查更新；**点击“下载更新”才下载安装包**。下载完成并校验后，通过 Android 系统确认安装。没有更新功能的旧版需要先手动覆盖安装这一次。
 
 ## 数据来源
 
@@ -32,6 +32,6 @@ DJMAX RESPECT V 成绩查询与练习参考工具，原生 Android 应用，支�
 
 ## 界面引用
 
-[AndroidLiquidGlass／Backdrop](https://github.com/Kyant0/AndroidLiquidGlass) 用于液态玻璃界面，Apache-2.0。数据来源与界面项目分别列出，感谢相关维护者。
+[AndroidLiquidGlass／Backdrop](https://github.com/Kyant0/AndroidLiquidGlass) 用于液态玻璃界面，Apache-2.0。段位徽章与星级图案采用用户提供的 [djmax_bests_generate](https://github.com/SoreHait/djmax_bests_generate) 项目 PNG，随包保留 MIT 许可和 SoreHait 的版权声明。数据来源与界面项目分别列出，感谢相关维护者。
 
 本应用为玩家工具，与 DJMAX 官方无隶属关系。
